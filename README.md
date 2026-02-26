@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Engineer;MERN+Stack+Specialist"/>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Engineer;MERN+Stack+Specialist"/>
 - 🎓 MCA Student
 - 🤖 Building AI-powered applications
 - 💻 MERN Stack Developer
