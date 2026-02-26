@@ -28,10 +28,12 @@
 
 ### 🔥 Featured Projects
 - AI Sales CRM → https://github.com/Sahil-Thakur-31/AI-Based-Sales-CRM
-- Chat Application → https://github.com/Sahil-Thakur-31/Chat
+- Chat Application → https://github.com/Sahil-Thakur-31/Chat-App
 
 ---
 
 ### 🌐 Connect With Me
-- LinkedIn
-- Portfolio
+- LinkedIn → https://www.linkedin.com/in/sahil-thakur31/
+- Portfolio → https://primary-portfolio-alpha.vercel.app/
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Engineer;MERN+Stack+Specialist"/>
