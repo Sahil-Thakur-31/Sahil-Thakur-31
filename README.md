@@ -21,9 +21,9 @@
 
 ### 📊 GitHub Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Sahil-Thakur-31&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Thakur-31&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Thakur-31&layout=compact&theme=tokyonight&langs_count=8"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sahil-Thakur-31&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sahil-Thakur-31&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
 ---
