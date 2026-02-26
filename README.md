@@ -4,6 +4,7 @@
 ---
 
 ### 🚀 About Me
+- <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Engineer;MERN+Stack+Specialist"/>
 - 🎓 MCA Student
 - 🤖 Building AI-powered applications
 - 💻 MERN Stack Developer
@@ -36,4 +37,8 @@
 - LinkedIn → https://www.linkedin.com/in/sahil-thakur31/
 - Portfolio → https://primary-portfolio-alpha.vercel.app/
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Engineer;MERN+Stack+Specialist"/>
+https://github-readme-stats.vercel.app/api?username=Sahil-Thakur-31&show_icons=true&theme=tokyonight
+https://github-readme-stats-sahil-thakur-31.vercel.app/api?username=Sahil-Thakur-31&show_icons=true&theme=tokyonight
+https://github-readme-stats-sahil-thakur-31.vercel.app/api/top-langs/?username=Sahil-Thakur-31&layout=compact&theme=tokyonight
+https://github-readme-streak-stats-sahil-thakur-31.vercel.app/?user=Sahil-Thakur-31&theme=tokyonight
+https://github-snake-sahil-thakur-31.vercel.app/github-contribution-grid-snake.svg
