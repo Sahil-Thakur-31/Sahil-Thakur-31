@@ -37,8 +37,19 @@
 - LinkedIn → https://www.linkedin.com/in/sahil-thakur31/
 - Portfolio → https://primary-portfolio-alpha.vercel.app/
 
-https://github-readme-stats.vercel.app/api?username=Sahil-Thakur-31&show_icons=true&theme=tokyonight
-https://github-readme-stats-sahil-thakur-31.vercel.app/api?username=Sahil-Thakur-31&show_icons=true&theme=tokyonight
-https://github-readme-stats-sahil-thakur-31.vercel.app/api/top-langs/?username=Sahil-Thakur-31&layout=compact&theme=tokyonight
-https://github-readme-streak-stats-sahil-thakur-31.vercel.app/?user=Sahil-Thakur-31&theme=tokyonight
-https://github-snake-sahil-thakur-31.vercel.app/github-contribution-grid-snake.svg
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil-Thakur-31&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Thakur-31&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Thakur-31&theme=tokyonight)
+
+![Contribution Snake](https://github.com/Sahil-Thakur-31/Sahil-Thakur-31/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Thakur-31&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Thakur-31&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Thakur-31&theme=tokyonight"/>
+</p>
